@@ -1,0 +1,6 @@
+1. Download and install the Maven binary distribution and set the path.
+2. Create a maven project using mvn command and try to clean,compile, build
+, package and install. And at last try to run using command.
+3. Try all the things of assignment 2, using eclipse.
+4. Install the required plugins on jenkins for maven and GIT repository.
+5. Try to run the same project using jenkins, and use maven, git features as well.
